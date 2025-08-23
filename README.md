@@ -203,40 +203,20 @@ MAX_TOKENS = 800          # Īsāki skaidrojumi
 
 ### Plānotie uzlabojumi:
 
-- [ ] GUI interfeiss
-- [ ] Batch apstrāde vairākiem video
-- [ ] Automātiska grūtības līmeņa noteikšana
-- [ ] Eksports QTI formātā
+- [ ] Web GUI interfeiss
 - [ ] Integrācija ar populārām LMS sistēmām
 
-
-### Pielāgošana:
-
-- Mainiet prompt šablonus specifiskām tēmām
-- Pievienojiet papildu validācijas noteikumus
-- Implementējiet daudzlīmeņu grūtības sistēmu
 
 
 ## 📄 Licence
 
 MIT License - brīvi izmantojams personīgiem un komerciāliem projektiem.
 
-## 🤝 Ieguldījums
-
-Ieguldījumi ir gaidīti! Lūdzu:
-
-1. Fork projektu
-2. Izveidojiet feature branch
-3. Commit izmaiņas
-4. Push uz branch
-5. Izveidojiet Pull Request
 
 ## 📞 Atbalsts
 
 - Issues: GitHub Issues tab
-- Dokumentācija: Wiki sadaļa
-- Piemēri: `/examples` mape
-
+  
 ***
 
 **Piezīme**: Šis rīks ir paredzēts izglītības nolūkiem. Lūdzu, ievērojiet YouTube lietošanas noteikumus un autortiesības.
