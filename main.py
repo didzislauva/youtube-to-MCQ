@@ -39,7 +39,7 @@ def get_transcript_new_api(url: str, preferred_langs=("lv","en")):
     return None, None, "not_found"
 
 # Izsaukums
-url = "https://www.youtube.com/watch?v=FQYQLOzo0Zk"
+url = "https://www.youtube.com/watch?v=AFXLZ7FEJc4"
 segments, lang, source = get_transcript_new_api(url, preferred_langs=("lv","en"))
 print(lang, source, 0 if segments is None else len(segments))
 
